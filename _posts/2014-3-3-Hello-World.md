@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Up and crawling
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+
+I wonder how I can host images to the site.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
